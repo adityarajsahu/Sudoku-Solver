@@ -1,0 +1,56 @@
+header {
+    color: white;
+    background-color: #563D7C;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    color: black;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.card-color {
+    background-color: #563D7C;
+    padding: 20px;
+}
+
+#board {
+    margin: 0;
+    background-color: #563D7C;
+}
+
+.num {
+    float: left;
+    width: 11.11111%;
+}
+
+.input {
+    text-align: center;
+    border-radius: 0;
+}
+
+.pad-top {
+    padding-top: 5px;
+}
+
+.pad-bot {
+    padding-bottom: 5px;
+}
+
+.pad-left {
+    padding-left: 5px;
+}
+
+.pad-right {
+    padding-right: 5px;
+}
+
+.solve-button {
+    margin: 2em 1em;
+    position: fixed;
+    left: 50%;
+}
